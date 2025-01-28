@@ -36,25 +36,23 @@ We will make heavy use of the python programming language. If you need to refres
 - [Python Programming for Scientists"](https://astrofrog.github.io/py4sci/), T. Robitaille et al.
 - ["Learning Scientific Programming with Python"](https://www.cambridge.org/core/books/learning-scientific-programming-with-python/3D264483BC7B380A3059B3861C661237), Hill, Cambridge University Press, 2020. Supporting code: [scipython.com](https://scipython.com/).
 
-## Schedule
+## 2025 Class schedule
 
-Classes are on Wednesdays from 8.30am to 12.30pm for a total of 36 hours. Here is our timetable:
+Classes will take place on the Bicocca campus, on Wednesdays from 8.30am to 12.30pm, for a total of 36 hours. Here is our timetable:
 
-1. **06-03-24**. U7-Lab712.
-2. **13-03-24**. U7-Lab712.
-3. **20-03-24**. U7-Lab712.
-4. **27-03-24**. U7-Lab712.
-- 03-04-24. *No lecture, Davide and Giulia are away for research.*
-5. **10-04-24**. U7-Lab712.
-6. **17-04-24**. U7-Lab712.
-7. **24-04-24**. U7-Lab712.
-- 01-05-24. *Holiday.*
-8. **08-05-24**. U9a-Lab909.
-9. **15-05-24**. U7-Lab714.
-10. 22-05-24. U7-Lab714. *Question time*. 
-- 29-05-24. U7-Lab714. *[Extra slot in case we skip one lecture...]*.
-- 05-06-24. U7-Lab714. *[Extra slot in case we skip one lecture...]*. 
-- 12-06-24. U7-Lab714. *[Extra slot in case we skip one lecture...]*. 
+1. **Mar 5**. Lab U9-910
+2. **Mar 12**. Lab U9-910
+3. **Mar 19**. Lab U9-910
+- Mar 26, Davide is away for research
+4. **Apr 2**. Lab U9-910
+5. **Apr 9**. Lab U9-910
+6. **Apr 16**. Lab U9-910
+7. **Apr 23**. Lab U9-910
+8. **Apr 30**. Lab U5-531
+9. **May 7**. Lab U5-531
+- May 14, backup slot
+- May 21, backup slot
+- May 28, backup slot
 
 ## Setup
 
