@@ -62,7 +62,7 @@ Each class will be about 1h of lecture and about 3h of coding. You will need to 
 
 Each lecture has an exercise at the end (actually, most of the time in class is dedicated to completing these problems!). At the end of the class, you will have to submit your codes showcasing what you've done on these problems. There will not be oral exams. The outcome will be provided as a passed / not passed statement (no numbers).
 
-To submit your codes, register on github.com, create a new **private** repository called `machinelearning4physics_bicocca_2024_solutions`, upload your files, and share it with the two of us (usernames `dgerosa` and `gfumagalli`). See [here for detailed instructions](examsubmission.md).
+To submit your codes, register on github.com, create a new **private** repository called `machinelearning4physics_bicocca_2025_solutions`, upload your files, and share it with the two of us (usernames `dgerosa` and `gfumagalli`). See [here for detailed instructions](examsubmission.md).
 
 Exams will be cleared according to the nominal calendar available on the student service website. 
 
