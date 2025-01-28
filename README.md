@@ -50,9 +50,9 @@ Classes will take place on the Bicocca campus, on Wednesdays from 8.30am to 12.3
 7. **Apr 23**. Lab U9-910
 8. **Apr 30**. Lab U5-531
 9. **May 7**. Lab U5-531
-- May 14, backup slot
-- May 21, backup slot
-- May 28, backup slot
+- **May 14**. Tutoring before the exams. Lab U5-531
+- May 21, backup slot. Lab U7-711.
+- May 28, backup slot. Lab U7-711.
 
 ## Setup
 
