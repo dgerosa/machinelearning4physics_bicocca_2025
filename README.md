@@ -1,8 +1,8 @@
-# Laboratory of Machine Learning Applied to Physical Systems
+# Machine Learning for Physics and Astronomy
 **[Davide Gerosa](https://davidegerosa.com/)** (module lead) - davide.gerosa@unimib.it  
 **Giulia Fumagalli** (teaching assistant) - g.fumagalli47@campus.unimib.it 
 
-University of Milano-Bicocca, 2024. [BSc in Artificial Intelligence](https://www.unimib.it/undergraduate/artificial-intelligence).
+University of Milano-Bicocca, 2025. [BSc in Artificial Intelligence](https://www.unimib.it/undergraduate/artificial-intelligence).
 
 ## Aims
 
