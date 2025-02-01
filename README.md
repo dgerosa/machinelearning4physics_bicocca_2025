@@ -38,7 +38,10 @@ We will make heavy use of the python programming language. If you need to refres
 
 ## 2025 Class schedule
 
-Classes will take place on the Bicocca campus, on Wednesdays from 8.30am to 12.30pm, for a total of 36 hours. Here is our timetable:
+Classes will take place on the Bicocca campus, on Wednesdays from 8.30am to 12.30pm, for a total of 36 hours. 
+
+Our schedule is as follows. [Here is a public calendar](https://calendar.google.com/calendar/embed?src=5d8d31ed2056780a879a376955b230fe78245fd8990bff77a728da5de8e0ff0f%40group.calendar.google.com&ctz=Europe%2FRome) with the dates below, which you can import into your calendar software.
+
 
 1. **Mar 5**. Lab U9-910
 2. **Mar 12**. Lab U9-910
