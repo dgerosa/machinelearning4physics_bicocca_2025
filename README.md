@@ -36,7 +36,7 @@ We will make heavy use of the python programming language. If you need to refres
 - [Python Programming for Scientists"](https://astrofrog.github.io/py4sci/), T. Robitaille et al.
 - ["Learning Scientific Programming with Python"](https://www.cambridge.org/core/books/learning-scientific-programming-with-python/3D264483BC7B380A3059B3861C661237), Hill, Cambridge University Press, 2020. Supporting code: [scipython.com](https://scipython.com/).
 
-## 2025 Class schedule
+## Class schedule
 
 Classes will take place on the Bicocca campus, on Wednesdays from 8.30am to 12.30pm, for a total of 36 hours. 
 
