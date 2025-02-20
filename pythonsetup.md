@@ -14,11 +14,11 @@ The image is called "Astrostatistics"; no worries, it's ok. Sometimes is takes a
 
 - Once you signed up, open a browser (either in the lab or from home) and go to
 
-https://libaas-lessons.si.unimib.it
+https://vdi-libaas.si.unimib.it
 
 You will have access you a desktop-like environment where you can work freely. 
 
-- **Important** The virtual-machine images can be erased without notice. So when each class is over make sure you save your work somewhere else.
+- **Important** The virtual-machine images should be persistent, but don't trust the system (I wouldn't be surprised if they get rea can be erased without notice..). So when each class is over, I strongly encourage you to you save your work somewhere else.
 
 
 ### 2. Your own python distribution
