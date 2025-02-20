@@ -4,7 +4,7 @@ These are some instructions to submit your exercises, assuming you don't know ho
 
 1. Go to [github.com](www.github.com) and create an account there (if you don't have one already). Pick a professional username please.
 2. Hit the + button at the top and create a new repository
-3. Call your new repository `machinelearning4physics_bicocca_2024_solutions` and set it to **PRIVATE**
+3. Call your new repository `machinelearning4physics_bicocca_2025_solutions` and set it to **PRIVATE**
 4. Click on *Upload existing files*
 5. On the next page, upload your exercises and then click the green button `Commit changes`
 6. Then go to *Settings*, then *Collaborators* and then *Add people*
