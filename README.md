@@ -73,7 +73,7 @@ Each lecture has an exercise at the end (actually, most of the time in class is 
 
 To submit your codes, register on github.com, create a new **private** repository called `machinelearning4physics_bicocca_2025_solutions`, upload your files, share it with the two of us (usernames `dgerosa` and `gfumagalli`), and send us an email when you are done. See [here for detailed instructions](examsubmission.md).
 
-You do not need to submit assignments after every lecture. Please share them all together when you are ready. Exams will be cleared according to the nominal exam dates available on the student service website. 
+You do not need to submit assignments after every lecture. Please share them all together at the end of the course, when you are ready. Exams will be cleared according to the nominal exam dates available on the student service website. 
 
 
 
