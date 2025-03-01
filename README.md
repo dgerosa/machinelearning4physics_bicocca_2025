@@ -76,6 +76,10 @@ To submit your codes, register on github.com, create a new **private** repositor
 You do not need to submit assignments after every lecture. Please share them all together at the end of the course, when you are ready. Exams will be cleared according to the nominal exam dates available on the student service website. 
 
 
+## Past editions
+
+- Current: [dgerosa.github.io/astrostatistics_bicocca](https://dgerosa.github.io/machinelearning4physics_bicocca)
+- 2024: [github.com/dgerosa/astrostatistics_bicocca_2024](https://github.com/dgerosa/machinelearning4physics_bicocca_2024)
 
 ## Careful...
 
