@@ -18,7 +18,7 @@ https://vdi-libaas.si.unimib.it
 
 You will have access you a desktop-like environment where you can work freely. 
 
-- **Important** The virtual-machine images should be persistent, but don't trust the system (I wouldn't be surprised if they get rea can be erased without notice..). So when each class is over, I strongly encourage you to you save your work somewhere else.
+- **Important** The virtual-machine images should be persistent, but don't trust the system. So when each class is over, I encourage you to save your work somewhere else.
 
 
 ### 2. Your own python distribution
