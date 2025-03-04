@@ -10,7 +10,7 @@ Classes will be in computer labs and you're of course welcome to use those compu
 
 https://libaas.unimib.it/PubLab/register/34ddf7f4010db47dfa35
 
-The image is called "Astrostatistics"; no worries, it's ok. Sometimes is takes a few hours before the virtual machine becomes available, so I encourage you to sign up well in advance.  
+The image is called "Astrostatistics". Sometimes, it takes a few hours before the virtual machine becomes available, so I encourage you to sign up well in advance.  
 
 - Once you signed up, open a browser (either in the lab or from home) and go to
 
