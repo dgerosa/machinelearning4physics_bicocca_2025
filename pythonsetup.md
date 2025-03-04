@@ -10,7 +10,7 @@ Classes will be in computer labs and you're of course welcome to use those compu
 
 https://libaas.unimib.it/PubLab/register/34ddf7f4010db47dfa35
 
-The image is called "Astrostatistics"; no worries, it's ok. Sometimes is takes a few hours before the virtual machine becomes available, so I encourage you to sign up well in advance.  
+The image is called "Astrostatistics". Sometimes, it takes a few hours before the virtual machine becomes available, so I encourage you to sign up well in advance.  
 
 - Once you signed up, open a browser (either in the lab or from home) and go to
 
@@ -18,7 +18,7 @@ https://vdi-libaas.si.unimib.it
 
 You will have access you a desktop-like environment where you can work freely. 
 
-- **Important** The virtual-machine images should be persistent, but don't trust the system (I wouldn't be surprised if they get rea can be erased without notice..). So when each class is over, I strongly encourage you to you save your work somewhere else.
+- **Important** The virtual-machine images should be persistent, but don't trust the system. So when each class is over, I encourage you to save your work somewhere else.
 
 
 ### 2. Your own python distribution
