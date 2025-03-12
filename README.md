@@ -35,6 +35,7 @@ We will make heavy use of the python programming language. If you need to refres
 - ["Lectures on scientific computing with Python"](https://github.com/jrjohansson/scientific-python-lectures), R. Johansson et al.  
 - [Python Programming for Scientists"](https://astrofrog.github.io/py4sci/), T. Robitaille et al.
 - ["Learning Scientific Programming with Python"](https://www.cambridge.org/core/books/learning-scientific-programming-with-python/3D264483BC7B380A3059B3861C661237), Hill, Cambridge University Press, 2020. Supporting code: [scipython.com](https://scipython.com/).
+- ["Python for non pythonians"](https://www.amazon.com/Python-non-Pythonians-Over-Programming-Languages/dp/888548686X), Rubera, Grossetti, 2019.
 
 ## Class schedule
 
