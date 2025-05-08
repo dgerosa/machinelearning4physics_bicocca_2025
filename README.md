@@ -55,8 +55,6 @@ Our schedule is as follows. [Here is a public calendar](https://calendar.google.
 8. **Apr 30**. Lab U5-531
 9. **May 7**. Lab U5-531
 - **May 14**. Tutoring before the exams. Lab U5-531
-- May 21, backup slot. Lab U7-711.
-- May 28, backup slot. Lab U7-711.
 
 ## Setup
 
